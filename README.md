@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <p align="left"> <a href="https://twitter.com/santiap__" target="blank"><img src="https://img.shields.io/twitter/follow/santiap__?logo=twitter&style=for-the-badge" alt="santiap__" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently studying a software engineering degree
 
 - 💬 Ask me how **to install Arch**
 
