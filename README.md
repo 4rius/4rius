@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently studying a degree in software engineering
 
-- 💬 Ask me how **to install Arch**
-
 - 📫 Get in touch with me: **santi.ari.pani@protonmail.com**
 
 - ⚡ Fun fact **I can exit Vim**
 
-<h3 align="left">My socials 😊</h3>
+<h3 align="left">My socials</h3>
 <p align="left">
 <a href="https://dev.to/4rius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="4rius" height="30" width="40" /></a>
 <a href="https://twitter.com/santiap__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santiap__" height="30" width="40" /></a>
