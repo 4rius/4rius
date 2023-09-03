@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying a degree in software engineering
 
-- 📫 Get in touch with me: **santi.ari.pani@protonmail.com**
+- 📫 Get in touch with me: **santi.ari.pani@outlook.com**
 
 - ⚡ Fun fact **I can exit Vim**
 
